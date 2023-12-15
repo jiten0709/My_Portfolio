@@ -13338,13 +13338,22 @@ textarea.form-control {
 }
 
 .heading-section .subheading {
-  font-size: 13px;
+  font-size: 20px;
   font-weight: 700;
   display: block;
   margin-bottom: 5px;
   text-transform: uppercase;
-  color: black;
   color: #b1b493;
+  letter-spacing: 3px;
+}
+
+.heading-section .connect-me {
+  font-size: 40px;
+  font-weight: 700;
+  display: block;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+  color: #000066;
   letter-spacing: 3px;
 }
 
